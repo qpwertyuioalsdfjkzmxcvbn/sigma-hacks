@@ -1,0 +1,1 @@
+javascript:(function(){fetch('https://cdn.jsdelivr.net/gh/Bromine35/Classkick-Answers-Tool@main/main.js').then(r=>r.text()).then(t=>eval(t)).catch(e=>console.error('Error executing script:', e))})()
